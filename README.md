@@ -35,7 +35,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/FannGIT">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FannGIT&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FannGIT&layout=compact&langs_count=8&theme=algolia"/>
 </a>
@@ -43,7 +43,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p align="left">
 <a href="https://www.linkedin.com/in/irfan-adi-maulana-4aa482324/"><img src="https://img.shields.io/badge/-Irfan%20Adi%20Maulana-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:noobplayer016@gmail.com"><img src="https://img.shields.io/badge/  -noobplayer016@gmai.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/fannmlnaa_"><img src="https://img.shields.io/badge/-@fannmlnaa__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
