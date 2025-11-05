@@ -1,6 +1,6 @@
 ![Fann-Banner](https://i.ibb.co.com/c4GfQBM/Fann-Banner.png)
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Fann</h2>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="center"/><h2>Hey there! I'm Fann</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Fann -->
 
